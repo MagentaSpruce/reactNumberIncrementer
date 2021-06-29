@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/reactNumberIncrementer/static/js/main.5b09e017.chunk.js",
+    "main.js.map": "/reactNumberIncrementer/static/js/main.5b09e017.chunk.js.map",
+    "runtime-main.js": "/reactNumberIncrementer/static/js/runtime-main.4a99aecb.js",
+    "runtime-main.js.map": "/reactNumberIncrementer/static/js/runtime-main.4a99aecb.js.map",
+    "static/js/2.c97c6c70.chunk.js": "/reactNumberIncrementer/static/js/2.c97c6c70.chunk.js",
+    "static/js/2.c97c6c70.chunk.js.map": "/reactNumberIncrementer/static/js/2.c97c6c70.chunk.js.map",
+    "index.html": "/reactNumberIncrementer/index.html",
+    "precache-manifest.a3a6378bdad02c7306cfd7cc3dc423e0.js": "/reactNumberIncrementer/precache-manifest.a3a6378bdad02c7306cfd7cc3dc423e0.js",
+    "service-worker.js": "/reactNumberIncrementer/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a99aecb.js",
+    "static/js/2.c97c6c70.chunk.js",
+    "static/js/main.5b09e017.chunk.js"
+  ]
+}
